@@ -1,4 +1,4 @@
-package com.github.funthomas424242.example.bookshop;
+package com.github.pigroup.example.bookshop;
 
 /*-
  * #%L
